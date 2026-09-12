@@ -34,13 +34,13 @@ Our application is built using modern, high-performance tooling focused on speed
 
 *   **Frontend & Routing:** Next.js (App Router) with built-in XSS sanitization for dynamic routes.
 *   **Styling & UI:** Tailwind CSS paired with fluid `motion` animations.
-*   **Development Environment:** Arch Linux backend managed via robust Git workflows.
+*   **Backend Infrastrucutre:** TBD. 
 
 ---
 
 ## 📂 Repositories
 
-*   **[`claws-hq/claws`](https://github.com/claws-hq/claws)** — The primary client-side interface, editor, and application repository.
+*   **[`claws-hq/claws-client`](https://github.com/claws-hq/claws-client)** — The core client-side interface, editor, and application repository.
 
 ---
 
