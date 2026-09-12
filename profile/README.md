@@ -1,11 +1,11 @@
 <div align="center">
 
-# C.L.A.W.S © C.L.A.W.S. Software, LLC  - All rights reserved
+# C.L.A.W.S
 ### Custom Links & Web Sites
 
 <p align="center">
   <img src="https://img.shields.io/badge/Architecture-Zero--Knowledge-blue?style=for-the-badge&logo=shield" alt="Zero-Knowledge">
-  <img src="https://img.shields.io/badge/Model-Hybrid%20Open%20Source-purple?style=for-the-badge&logo=github" alt="Hybrid Open Source">
+  <img src="https://img.shields.io/badge/Model-Source--Available-purple?style=for-the-badge&logo=github" alt="Hybrid Open Source">
   <img src="https://img.shields.io/badge/Status-Active%20Development-success?style=for-the-badge" alt="Active Development">
 </p>
 
@@ -45,5 +45,5 @@ Our application is built using modern, high-performance tooling focused on speed
 ---
 
 <div align="center">
-  <em>Secure by design. Private by default.</em>
+  <em>C.L.A.W.S. © C.L.A.W.S. Software, LLC</em>
 </div>
